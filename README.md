@@ -6,7 +6,7 @@
 3. String.valueOf(array).toCharArray() is useful to convert integer into String individual-digits array
 4. Integer.parseInt(new String(array)) is useful to convert string array back to integer
    
-[Interesting Questions of the day]
+[Interesting Questions of the day]\n
 2231. Largest Number After Digit Swaps by Parity 
 
 
