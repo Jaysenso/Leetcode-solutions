@@ -7,7 +7,7 @@
 4. Integer.parseInt(new String(array)) is useful to convert string array back to integer
    
 [Interesting Questions of the day]
-   2231. Largest Number After Digit Swaps by Parity 
+2231. Largest Number After Digit Swaps by Parity 
 
 
    
