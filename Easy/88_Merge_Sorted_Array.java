@@ -4,7 +4,7 @@ class Solution {
         int temp;
         for(int i = 0; i < nums2.length; i++){
             nums1[index++] = nums2[i];     
-        }
+        } 
         //insertion sort (or we can use Arrays.sort too)
         for(int i = 0; i < nums1.length; i++){
             for(int j = i; j > 0; j--){
