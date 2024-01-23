@@ -17,7 +17,7 @@ public class Solution extends GuessGame {
         int leftBound = 1;
         int rightBound = n;
     
-        while(leftBound != rightBound) {
+        while(leftBound < rightBound) {
             int mid = leftBound + (rightBound - leftBound) / 2;
             //my guess is higher than the target
             if(guess(mid) == -1)
