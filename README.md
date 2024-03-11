@@ -1,4 +1,4 @@
-![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/f3527c12-1dfb-492e-b970-ae99b80334a6)# LeetcodeExercises
+LeetcodeExercises
 
 **[Changelog 10 oct 2023]**
 1. "if(array[i] - array[j]) % 2 == 0)" is useful to check for same parity elements
