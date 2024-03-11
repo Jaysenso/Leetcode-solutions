@@ -1,4 +1,4 @@
-# LeetcodeExercises
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/f3527c12-1dfb-492e-b970-ae99b80334a6)# LeetcodeExercises
 
 **[Changelog 10 oct 2023]**
 1. "if(array[i] - array[j]) % 2 == 0)" is useful to check for same parity elements
@@ -8,7 +8,8 @@
    
 **[Interesting Questions of the day]**
 2231. Largest Number After Digit Swaps by Parity 
-
+2549. Count Distinct Numbers on Board
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/c1056a78-50d6-45ae-a080-28a604a52191)
 
    
    
