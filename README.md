@@ -1,6 +1,6 @@
 LeetcodeExercises
 **[Submitted LeetCode Solutions]**<br>
-https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/solutions/4861510/easy-intuitive-javascript-approach-with-visual-two-pointers-iterative-approach
+1. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/solutions/4861510/easy-intuitive-javascript-approach-with-visual-two-pointers-iterative-approach
 
 **[Changelog 10 oct 2023]**
 1. "if(array[i] - array[j]) % 2 == 0)" is useful to check for same parity elements
