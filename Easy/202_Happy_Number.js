@@ -2,7 +2,7 @@
  * @param {number} n
  * @return {boolean}
  */
- 
+
 /**
 Approach : 
 * when a number isn't a happy Number, the sum of squares of the number will form a cyclic
@@ -13,7 +13,7 @@ Approach :
 */
 
 var isHappy = function(n) {
-    let sumRecord = [];
+    let sumRecord = new Set();
     let sum;
     let happyNum = n.toString().split('');
 
@@ -23,12 +23,12 @@ var isHappy = function(n) {
             sum += happyNum[i] ** 2;
         }
 
-        if(!sumRecord.lastIndexOf(sum))
-            return false;
+        if(sumRecord.has(sum)) return false;
 
-        sumRecord.push(sum);
+        sumRecord.add(sum);
         happyNum = sum.toString().split('');
-
     }
+    
     return true;
+
 };
