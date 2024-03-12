@@ -14,6 +14,4 @@ LeetcodeExercises<br>
 2549. Count Distinct Numbers on Board
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/c1056a78-50d6-45ae-a080-28a604a52191)
 202. Happy Number
-![11](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/93beb2df-172c-4d2e-a9c2-9b5300b418cf)
-
-   
+![Screenshot_3](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/48a9c858-2e2e-485d-941e-7cdea9375783)
