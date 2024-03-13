@@ -7,7 +7,7 @@
 
 Sort the array in ascending (is easier to iterate through & compute abs. difference and the resultant array 
 has to be in ascending order anyways)
-Iterate through arr, let difference = INT_MAX and compute the difference between current element and the element 
+Iterate through arr, let difference = MAX_VALUE and compute the difference between current element and the element 
 after current element. We then check if the computed difference is less than difference variable : 
 if yes => update difference with its value and reinitialize the result array and push these 2 elements
 if the differences are equal => we dont reinitialize, but just append it into the res array
