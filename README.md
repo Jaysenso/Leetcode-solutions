@@ -11,6 +11,7 @@ LeetcodeExercises<br>
    
 **[Interesting Questions]**<br><br>
 2231. Largest Number After Digit Swaps by Parity<br>
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/d31b9728-ba55-4772-94d0-d56930adb579)
 2549. Count Distinct Numbers on Board
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/c1056a78-50d6-45ae-a080-28a604a52191)
 202. Happy Number
