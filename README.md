@@ -17,5 +17,5 @@ LeetcodeExercises<br>
 ![Screenshot_3](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/48a9c858-2e2e-485d-941e-7cdea9375783)
 1189. Maximum number of Balloons
 <img width="1472" alt="image" src="https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/d3ea5615-19fe-4d94-a262-6caaaddda4ec">
-2099. Find Subsequence of Length K With the Largest Sum
+2099. Find Subsequence of Length K With the Largest Sum (NOTE : did not feel like an easy question)
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/8a544473-93a2-431d-9042-7c8775c0c659)
