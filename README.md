@@ -15,3 +15,5 @@ LeetcodeExercises<br>
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/c1056a78-50d6-45ae-a080-28a604a52191)
 202. Happy Number
 ![Screenshot_3](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/48a9c858-2e2e-485d-941e-7cdea9375783)
+1189. Maximum number of Balloons
+<img width="1472" alt="image" src="https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/d3ea5615-19fe-4d94-a262-6caaaddda4ec">
