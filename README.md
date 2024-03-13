@@ -2,6 +2,7 @@ LeetcodeExercises<br>
 ---
 **[Submitted LeetCode Solutions]**<br>
 1. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/solutions/4861510/easy-intuitive-javascript-approach-with-visual-two-pointers-iterative-approach
+2. https://leetcode.com/problems/rings-and-rods/solutions/4870714/javascript-intuitive-approach-with-explanation
 
 **[Changelog 10 oct 2023]**
 1. "if(array[i] - array[j]) % 2 == 0)" is useful to check for same parity elements
