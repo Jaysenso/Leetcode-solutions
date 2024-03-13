@@ -10,7 +10,7 @@ has to be in ascending order anyways)
 Iterate through arr, let difference = MAX_VALUE and compute the difference between current element and the element 
 after current element. We then check if the computed difference is less than minDiff variable : 
 if yes => update minDiff with the computed difference and reinitialize the result array and push these 2 elements
-if the differences are equal => we dont reinitialize, but just append it into the res array
+if the minDiff === computed difference => we dont reinitialize, but just append it into the res array
 if no => we dont do anything
 
 */
