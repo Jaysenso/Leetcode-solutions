@@ -21,3 +21,7 @@ LeetcodeExercises<br>
 <img width="1472" alt="image" src="https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/d3ea5615-19fe-4d94-a262-6caaaddda4ec">
 2099. Find Subsequence of Length K With the Largest Sum (NOTE : did not feel like an easy question)
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/8a544473-93a2-431d-9042-7c8775c0c659)
+238. Product of Array Except Self
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/2a3ccb51-18b0-4ee9-9f11-638b0a3c1a0d)
+334. Increasing Triplet Subsequence
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/3ffe5478-2a7b-460f-bc61-212958195d18)
