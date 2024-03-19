@@ -25,3 +25,6 @@ LeetcodeExercises<br>
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/2a3ccb51-18b0-4ee9-9f11-638b0a3c1a0d)
 334. Increasing Triplet Subsequence
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/3ffe5478-2a7b-460f-bc61-212958195d18)
+1004. Max Consecutive Ones III
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/b59fd2c2-5433-458e-80f0-f3cd33297033)
+
