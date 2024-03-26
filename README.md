@@ -28,4 +28,6 @@ LeetcodeExercises<br>
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/3ffe5478-2a7b-460f-bc61-212958195d18)
 1004. Max Consecutive Ones III
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/b59fd2c2-5433-458e-80f0-f3cd33297033)
+2352. Equal Row and Column Pairs
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/c55925e2-ecb3-426e-a97c-a90ba9353b12)
 
