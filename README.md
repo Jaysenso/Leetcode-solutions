@@ -4,11 +4,12 @@ LeetcodeExercises<br>
 1. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/solutions/4861510/easy-intuitive-javascript-approach-with-visual-two-pointers-iterative-approach
 2. https://leetcode.com/problems/rings-and-rods/solutions/4870714/javascript-intuitive-approach-with-explanation
 
-**[Changelog 10 oct 2023]**
+**[Changelog 26 March 2024]**
 1. "if(array[i] - array[j]) % 2 == 0)" is useful to check for same parity elements
 2. Most of the easy leetcode questions can be solved using 2 pointers approach
 3. String.valueOf(array).toCharArray() is useful to convert integer into String individual-digits array
 4. Integer.parseInt(new String(array)) is useful to convert string array back to integer
+5. for(let ch of word1){freq1[ch.charCodeAt(0) - 'a'.charCodeAt(0)]++;} can be used to keep track the frequency of each letters in a string
    
 **[Interesting Questions]**<br><br>
 2231. Largest Number After Digit Swaps by Parity<br>
