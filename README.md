@@ -29,5 +29,8 @@ LeetcodeExercises<br>
 1004. Max Consecutive Ones III
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/b59fd2c2-5433-458e-80f0-f3cd33297033)
 2352. Equal Row and Column Pairs
-![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/c55925e2-ecb3-426e-a97c-a90ba9353b12)
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/c55925e2-ecb3-426e-a97c-a90ba9353b12
+896. Monotonic Array
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/9f9181f3-8b1d-4407-9aeb-a318a0346a7c)
+
 
