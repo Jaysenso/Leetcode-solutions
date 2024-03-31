@@ -32,5 +32,7 @@ LeetcodeExercises<br>
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/c55925e2-ecb3-426e-a97c-a90ba9353b12)
 896. Monotonic Array
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/9f9181f3-8b1d-4407-9aeb-a318a0346a7c)
+914. X of a Kind in a Deck of Cards
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/0de42a5b-0d42-4cd1-902d-8d08eea5fb07)
 
 
