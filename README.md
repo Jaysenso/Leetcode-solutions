@@ -34,5 +34,7 @@ LeetcodeExercises<br>
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/9f9181f3-8b1d-4407-9aeb-a318a0346a7c)
 914. X of a Kind in a Deck of Cards
 ![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/0de42a5b-0d42-4cd1-902d-8d08eea5fb07)
+200. Number of Islands
+![image](https://github.com/Jaysenso/LeetcodeExercises/assets/105051750/e8b5c48b-4664-4680-8c64-34e71b77eda5)
 
 
