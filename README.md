@@ -7,7 +7,7 @@
 </h3>
 ---
 **[Submitted LeetCode Solutions]**<br>
-1. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/solutions/4861510/easy-intuitive-javascript-approach-with-visual-two-pointers-iterative-approach
+1. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/solutions/4861510/easy-intuitive-javascript-approach-with-visual-two-pointers-iterative-approach <br>
 2. https://leetcode.com/problems/rings-and-rods/solutions/4870714/javascript-intuitive-approach-with-explanation
 
 **[Changelog 26 March 2024]**
