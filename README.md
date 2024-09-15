@@ -5,10 +5,12 @@
         Notion
     </a>
 </h3>
+
 ---
+
 **[Submitted LeetCode Solutions]**<br>
 1. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/solutions/4861510/easy-intuitive-javascript-approach-with-visual-two-pointers-iterative-approach <br>
-2. https://leetcode.com/problems/rings-and-rods/solutions/4870714/javascript-intuitive-approach-with-explanation
+2. https://leetcode.com/problems/rings-and-rods/solutions/4870714/javascript-intuitive-approach-with-explanation<br>
 
 **[Changelog 26 March 2024]**
 1. "if(array[i] - array[j]) % 2 == 0)" is useful to check for same parity elements
