@@ -1,6 +1,10 @@
-LeetcodeExercises<br>
-
-<h3>Leetcode intuition explained on [notion](https://political-metatarsal-f33.notion.site/Leetcode-solutions-7445c2b33493486fa6cb2c3b2add0222)</h3>
+<h1>LeetcodeExercises</h1>
+<h3>
+    Leetcode intuition explained on 
+    <a href="https://political-metatarsal-f33.notion.site/Leetcode-solutions-7445c2b33493486fa6cb2c3b2add0222">
+        Notion
+    </a>
+</h3>
 ---
 **[Submitted LeetCode Solutions]**<br>
 1. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/solutions/4861510/easy-intuitive-javascript-approach-with-visual-two-pointers-iterative-approach
