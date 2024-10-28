@@ -1,6 +1,6 @@
 <h1>LeetcodeExercises</h1>
 <h3>
-    Leetcode intuition explained on 
+    Migrated to 
     <a href="https://political-metatarsal-f33.notion.site/Leetcode-solutions-7445c2b33493486fa6cb2c3b2add0222">
         Notion
     </a>
